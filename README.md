@@ -1,4 +1,4 @@
 # Demo
 
 ## Slot Machine
-A simple slot machine created by Unity.
+A simple slot machine made with Unity.
